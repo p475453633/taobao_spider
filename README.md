@@ -1,2 +1,2 @@
 # python_new
-python project for learner status
+Python project for learner status
