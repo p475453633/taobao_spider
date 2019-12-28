@@ -1,2 +1,2 @@
-# python_new
-Python project for learner status, for different
+## TaobaoSpider
+Pypeteer tech for Taobao Register.
